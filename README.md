@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marco Amorim</h1>
 <h3 align="center">I'm currently studying at 42Porto</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maugustooo&label=Profile%20views&color=0e75b6&style=flat" alt="maugustooo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maugustooo" alt="maugustooo" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/marcoamorim91" target="blank"><img src="https://img.shields.io/twitter/follow/marcoamorim91?logo=twitter&style=for-the-badge" alt="marcoamorim91" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/maugustooo](https://github.com/maugustooo)
@@ -26,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maugustooo&show_icons=true&locale=en&layout=compact" alt="maugustooo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maugustooo&show_icons=true&locale=en" alt="maugustooo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maugustooo&" alt="maugustooo" /></p>
