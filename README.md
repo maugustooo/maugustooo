@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/maugustooo?tab=repositories](https://github.com/maugustooo?tab=repositories)
 
-- 📫 How to reach me **https://linktr.ee/marcoamorim05*
+- 📫 How to reach me *https://linktr.ee/marcoamorim05*
 
 - ⚡ Fun fact **I love gym**
 
