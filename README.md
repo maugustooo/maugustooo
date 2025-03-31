@@ -37,4 +37,4 @@
 
 
 ### Individual Projects
-- [Exp Glass](https://github.com/maugustooo/ExpressGlass-App) -> A app for Express Glass
+- [Exp Glass App](https://github.com/maugustooo/ExpressGlass-App) -> A app for Express Glass KM map
