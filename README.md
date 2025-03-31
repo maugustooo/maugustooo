@@ -19,3 +19,29 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maugustooo&show_icons=true&locale=en&layout=compact" alt="maugustooo" /></p>
+
+</details>
+
+<details open>
+<summary style="font-size: 2.5em;"> <b>42 projects</b></summary>
+  
+### Group Projects
+- [IRC](https://github.com/maugustooo/42-ft_irc) -> A text-based communication protocol on the Internet
+- [Cub3D](https://github.com/maugustooo/42Cub3D) -> A 3D game using raycasting
+- [Minishell](https://github.com/maugustooo/42Minishell) -> recreate the bash terminal
+
+
+### Individual Projects
+- [Inception](https://github.com/maugustooo/42-Inception) -> work in progress...
+- [C++](https://github.com/maugustooo/42-cpp) -> Exercises done to learn C++
+- [Philosophers](https://github.com/diocode/42Philosophers) -> The philosopher dinning problem
+- [So_long](https://github.com/diocode/42So_long) -> A 2D retro game
+- [Push_Swap](https://github.com/maugustoo/42Push_swap) -> Sorting data on a stack, with a limited set of instructions
+
+<br>
+</details>
+
+<details open>
+<summary style="font-size: 2.5em;"> <b>Personal projects</b></summary>
+### Projects
+- [Exp Glass](https://github.com/maugustooo/ExpressGlass-App) -> A app for Express Glass
