@@ -33,7 +33,7 @@
 - [C++](https://github.com/maugustooo/42-cpp) -> Exercises done to learn C++
 - [Philosophers](https://github.com/maugustooo/42Philosophers) -> The philosopher dinning problem
 - [So_long](https://github.com/maugustooo/42So_long) -> A 2D retro game
-- [Push_Swap](https://github.com/maugustoo/42Push_swap) -> Sorting data on a stack, with a limited set of instructions
+- [Push_Swap](https://github.com/maugustooo/42Push_swap) -> Sorting data on a stack, with a limited set of instructions
 
 
 ### Individual Projects
