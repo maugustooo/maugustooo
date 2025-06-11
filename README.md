@@ -29,10 +29,10 @@
 - [IRC](https://github.com/maugustooo/42-ft_irc) -> A text-based communication protocol on the Internet
 - [Cub3D](https://github.com/maugustooo/42Cub3D) -> A 3D game using raycasting
 - [Minishell](https://github.com/maugustooo/42Minishell) -> recreate the bash terminal
-- [Inception](https://github.com/maugustooo/42-Inception) -> work in progress...
+- [Inception](https://github.com/maugustooo/42ft_Inception) -> work in progress...
 - [C++](https://github.com/maugustooo/42-cpp) -> Exercises done to learn C++
-- [Philosophers](https://github.com/diocode/42Philosophers) -> The philosopher dinning problem
-- [So_long](https://github.com/diocode/42So_long) -> A 2D retro game
+- [Philosophers](https://github.com/maugustooo/42Philosophers) -> The philosopher dinning problem
+- [So_long](https://github.com/maugustooo/42So_long) -> A 2D retro game
 - [Push_Swap](https://github.com/maugustoo/42Push_swap) -> Sorting data on a stack, with a limited set of instructions
 
 
